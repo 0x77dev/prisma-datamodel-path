@@ -15,7 +15,7 @@
     "module": "commonjs",
     "noImplicitAny": false,
     "outDir": "build",
-    "rootDir": "..",
+    "rootDir": ".",
     "skipLibCheck": true,
     "strict": true,
     "target": "ESNext"

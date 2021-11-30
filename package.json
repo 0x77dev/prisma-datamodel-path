@@ -8,5 +8,8 @@
   },
   "name": "prisma-reproduce",
   "workspaces": ["packages/"],
+  "scripts": {
+    "reproduce": "cd packages/sample-service && prisma generate && ts-node ."
+  },
   "private": true
 }
