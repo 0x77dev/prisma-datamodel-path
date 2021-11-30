@@ -9,3 +9,5 @@ That happened after upgrading Prisma to `3.x`.
 yarn install
 yarn reproduce
 ```
+
+[Related Issue](https://github.com/prisma/prisma/issues/10512)
